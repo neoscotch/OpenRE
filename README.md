@@ -4,6 +4,23 @@
 - Lead Generation Websites • CRM • Lead Cultivation • Marketing
 - lead databases with marketing automation features and real-time reporting / analytics.
 
+### Mission and Values
+#### Mission
+>We are on a mission to enable communities to be sustainable and fundraise in full transparency without having to create a legal entity to do so. 
+>Values 
+>Sustainability: We can’t achieve our mission unless we are sustainable doing it. We take a broad definition of sustainability as financial, collective and individual >sustainability.
+>Openness: We work in the open, use public slack, our code is public. We strive to be reachable and welcoming.
+>Resilience (people come and go) A successful company survives its founders. We try to do things in a way anyone can pick up after and carry on.
+>Transparency: Our  is public as well as , our investor's update is regularly published  and our salary tiers are published.
+
+
+
+
+
+
+
+
+
 #### Facebook Marketing Tool
 Simplifies and accelerates the ad creation process and tracks performance.
 A quick & easy solution to creating Facebook ads that drive traffic to high-converting landing pages
