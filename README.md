@@ -1,5 +1,10 @@
 # OpenRE 
 
+
+<img src="https://github.com/neoscotch/OpenRE/blob/main/Asset%201.png"  />
+
+
+
 ## Open Source Real Estate Sales & Marketing Solution
 - Lead Generation Websites • CRM • Lead Cultivation • Marketing
 - lead databases with marketing automation features and real-time reporting / analytics.
