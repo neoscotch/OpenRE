@@ -1,13 +1,66 @@
 # OpenRE 
 
 
-<img src="https://github.com/neoscotch/OpenRE/blob/main/Asset%201.png"  />
+<img src="https://github.com/neoscotch/OpenRE/blob/main/Asset%201.png" width="50%" />
+
+
+
+
+### Why Did I start the OpenRE project?
+> At only $1,600/month, an entire year of <a href="http://www.platform.marketing/">Platform</a> is less than half the cost of an employee.
+
+1. Quantifying things is what I do. 
+   * People should not be quantified as an arbitrary dollar amount.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 ## Open Source Real Estate Sales & Marketing Solution
 - Lead Generation Websites • CRM • Lead Cultivation • Marketing
 - lead databases with marketing automation features and real-time reporting / analytics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Mission and Values
 #### Mission
