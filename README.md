@@ -1,4 +1,6 @@
 # OpenRE 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE?ref=badge_shield)
+
 
 
 <img src="https://github.com/neoscotch/OpenRE/blob/main/Asset%201.png" width="50%" />
@@ -215,3 +217,7 @@ Simplest, most cost-effective way to generate listings
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE?ref=badge_large)
