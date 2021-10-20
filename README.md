@@ -1,9 +1,10 @@
 # OpenRE 
+
+
+
+
+<img src="https://github.com/neoscotch/OpenRE/blob/main/Asset%201.png" width="20%" /> <br>  <img id="repo-badge" src="https://www.codefactor.io/Content/badges/APlus.svg" alt="Repository badge with APlus rating" data-toggle="modal" data-target="#badgeTexts" analytics-on="click" analytics-category="Repo Header" analytics-event="Badge">
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE?ref=badge_shield)
-
-
-
-<img src="https://github.com/neoscotch/OpenRE/blob/main/Asset%201.png" width="50%" />
 
 
 
