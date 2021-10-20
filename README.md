@@ -1,66 +1,8 @@
-# OpenRE 
+<img src="https://github.com/neoscotch/OpenRE/blob/main/Asset%201.svg" width="20%" />
+  
+# The Open Real Estate Collective
 
-
-<img src="https://github.com/neoscotch/OpenRE/blob/main/Asset%201.png" width="50%" />
-
-
-
-
-### Why Did I start the OpenRE project?
-> At only $1,600/month, an entire year of <a href="http://www.platform.marketing/">Platform</a> is less than half the cost of an employee.
-
-1. Quantifying things is what I do. 
-   * People should not be quantified as an arbitrary dollar amount.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Open Source Real Estate Sales & Marketing Solution
-- Lead Generation Websites • CRM • Lead Cultivation • Marketing
-- lead databases with marketing automation features and real-time reporting / analytics.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE?ref=badge_shield)
 
 ### Mission and Values
 #### Mission
@@ -70,11 +12,6 @@
 >Openness: We work in the open, use public slack, our code is public. We strive to be reachable and welcoming.
 >Resilience (people come and go) A successful company survives its founders. We try to do things in a way anyone can pick up after and carry on.
 >Transparency: Our  is public as well as , our investor's update is regularly published  and our salary tiers are published.
-
-
-
-
-
 
 
 
