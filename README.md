@@ -1,3 +1,6 @@
+<img src="https://github.com/neoscotch/OpenRE/blob/main/Asset%201.svg" width="20%" />
+  
+# The Open Real Estate Collective
 # OpenRE 
 
 
@@ -64,6 +67,7 @@
 
 
 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE?ref=badge_shield)
 
 ### Mission and Values
 #### Mission
@@ -73,11 +77,6 @@
 >Openness: We work in the open, use public slack, our code is public. We strive to be reachable and welcoming.
 >Resilience (people come and go) A successful company survives its founders. We try to do things in a way anyone can pick up after and carry on.
 >Transparency: Our  is public as well as , our investor's update is regularly published  and our salary tiers are published.
-
-
-
-
-
 
 
 
