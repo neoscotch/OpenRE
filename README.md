@@ -1,6 +1,71 @@
 <img src="https://github.com/neoscotch/OpenRE/blob/main/Asset%201.svg" width="20%" />
   
 # The Open Real Estate Collective
+# OpenRE 
+
+
+
+
+<img src="https://github.com/neoscotch/OpenRE/blob/main/Asset%201.png" width="20%" /> <br>  <img id="repo-badge" src="https://www.codefactor.io/Content/badges/APlus.svg" alt="Repository badge with APlus rating" data-toggle="modal" data-target="#badgeTexts" analytics-on="click" analytics-category="Repo Header" analytics-event="Badge">
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE?ref=badge_shield)
+
+
+
+
+### Why Did I start the OpenRE project?
+> At only $1,600/month, an entire year of <a href="http://www.platform.marketing/">Platform</a> is less than half the cost of an employee.
+
+1. Quantifying things is what I do. 
+   * People should not be quantified as an arbitrary dollar amount.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Open Source Real Estate Sales & Marketing Solution
+- Lead Generation Websites • CRM • Lead Cultivation • Marketing
+- lead databases with marketing automation features and real-time reporting / analytics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE?ref=badge_shield)
 
@@ -152,3 +217,7 @@ Simplest, most cost-effective way to generate listings
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE?ref=badge_large)
