@@ -1,74 +1,18 @@
-<img src="https://github.com/neoscotch/OpenRE/blob/main/Asset%201.svg" width="20%" />
-  
 # The Open Real Estate Collective
-# OpenRE 
-
 
 
 
 <img src="https://github.com/neoscotch/OpenRE/blob/main/Asset%201.png" width="20%" /> <br>  <img id="repo-badge" src="https://www.codefactor.io/Content/badges/APlus.svg" alt="Repository badge with APlus rating" data-toggle="modal" data-target="#badgeTexts" analytics-on="click" analytics-category="Repo Header" analytics-event="Badge">
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE?ref=badge_shield)
+[![accord project](https://img.shields.io/badge/powered%20by-accord%20project-19C6C8.svg)](https://www.accordproject.org/)
+
+The Open Real Estate Collective utilizes the Accord Project, for Automated Contract Operations.
+
+Accord Project, an open source, non-profit, initiative working to transform contract management and contract automation by digitizing contracts. Accord Project operates under the umbrella of the [Linux Foundation][linuxfound]. The technical charter for the Accord Project can be found [here][charter].
 
 
 
-
-### Why Did I start the OpenRE project?
-> At only $1,600/month, an entire year of <a href="http://www.platform.marketing/">Platform</a> is less than half the cost of an employee.
-
-1. Quantifying things is what I do. 
-   * People should not be quantified as an arbitrary dollar amount.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Open Source Real Estate Sales & Marketing Solution
-- Lead Generation Websites • CRM • Lead Cultivation • Marketing
-- lead databases with marketing automation features and real-time reporting / analytics.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE?ref=badge_shield)
-
+<!--
 ### Mission and Values
 #### Mission
 >We are on a mission to enable communities to be sustainable and fundraise in full transparency without having to create a legal entity to do so. 
