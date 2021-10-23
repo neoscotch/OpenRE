@@ -3,7 +3,7 @@
 
 
 <img src="https://github.com/neoscotch/OpenRE/blob/main/Asset1.png" width="20%" /> <br>  <img id="repo-badge" src="https://www.codefactor.io/Content/badges/APlus.svg" alt="Repository badge with APlus rating" data-toggle="modal" data-target="#badgeTexts" analytics-on="click" analytics-category="Repo Header" analytics-event="Badge">
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE?ref=badge_large)
 [![accord project](https://img.shields.io/badge/powered%20by-accord%20project-19C6C8.svg)](https://www.accordproject.org/)
 
 [![Snyk Infrastructure as Code](https://github.com/neoscotch/OpenRE/actions/workflows/snyk-infrastructure-analysis.yml/badge.svg)](https://github.com/neoscotch/OpenRE/actions/workflows/snyk-infrastructure-analysis.yml)
@@ -166,9 +166,3 @@ Simplest, most cost-effective way to generate listings
 
 [linuxfound]: https://www.linuxfoundation.org
 [charter]: https://github.com/accordproject/governance/blob/master/accord-project-technical-charter.md
-
-
-
-## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE?ref=badge_large)
-
