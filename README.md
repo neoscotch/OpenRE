@@ -6,9 +6,9 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE?ref=badge_shield)
 [![accord project](https://img.shields.io/badge/powered%20by-accord%20project-19C6C8.svg)](https://www.accordproject.org/)
 
-The Open Real Estate Collective utilizes the Accord Project, for Automated Contract Operations.
+The Open Real Estate Collective utilizes the [Accord Project](https://accordproject.org/), for <a href="" alt="Contract automation is the use of software to enable both legal and non-legal teams to self-serve on routine legal documents, at scale, without needing to involve lawyers every time.">Automated Contract</a> Operations.
 
-Accord Project, an open source, non-profit, initiative working to transform contract management and contract automation by digitizing contracts. Accord Project operates under the umbrella of the [Linux Foundation][linuxfound]. The technical charter for the Accord Project can be found [here][charter].
+[Accord Project](https://accordproject.org/), an open source, non-profit, initiative working to transform contract management and contract automation by digitizing contracts. Accord Project operates under the umbrella of the [Linux Foundation][linuxfound]. The technical charter for the Accord Project can be found [here][charter].
 
 
 
@@ -23,7 +23,7 @@ Accord Project, an open source, non-profit, initiative working to transform cont
 >Transparency: Our  is public as well as , our investor's update is regularly published  and our salary tiers are published.
 
 
-
+[Accord Project](https://accordproject.org/)
 
 #### Facebook Marketing Tool
 Simplifies and accelerates the ad creation process and tracks performance.
@@ -157,9 +157,10 @@ Simplest, most cost-effective way to generate listings
 - Email Sync w/ Multiple Providers
 
 
+-->
 
-
-
+[linuxfound]: https://www.linuxfoundation.org
+[charter]: https://github.com/accordproject/governance/blob/master/accord-project-technical-charter.md
 
 
 
