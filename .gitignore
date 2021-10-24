@@ -127,5 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-concerto/node_modules/.bin/acorn
-concerto/node_modules/
+concerto/node_modules
+concerto/node_modules
+node_modules
