@@ -6,11 +6,12 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE?ref=badge_large)
 [![accord project](https://img.shields.io/badge/powered%20by-accord%20project-19C6C8.svg)](https://www.accordproject.org/)
 [![CodeFactor](https://www.codefactor.io/repository/github/neoscotch/openre/badge)](https://www.codefactor.io/repository/github/neoscotch/openre)
+![OpenRE Actions](https://api.meercode.io/badge/neoscotch/OpenRE?type=ci-success-rate&exclude="Labeler","Labeler","NodeJS%20with%20Webpack"&lastDay=7)
 
 [![Snyk Infrastructure as Code](https://github.com/neoscotch/OpenRE/actions/workflows/snyk-infrastructure-analysis.yml/badge.svg)](https://github.com/neoscotch/OpenRE/actions/workflows/snyk-infrastructure-analysis.yml)
 [![CodeQL](https://github.com/neoscotch/OpenRE/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/neoscotch/OpenRE/actions/workflows/codeql-analysis.yml)
 [![CI](https://github.com/neoscotch/OpenRE/actions/workflows/Codecov.yml/badge.svg)](https://github.com/neoscotch/OpenRE/actions/workflows/Codecov.yml)
-[![OpenRE Actions](https://api.meercode.io/badge/neoscotch/OpenRE?type=ci-success-rate&exclude="Labeler","Labeler","NodeJS with Webpack"&lastDay=7)
+
 
 #### The Open Real Estate Collective utilizes the Accord Project, for Automated Contract Operations.
 
