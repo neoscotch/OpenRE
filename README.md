@@ -10,6 +10,7 @@
 [![Snyk Infrastructure as Code](https://github.com/neoscotch/OpenRE/actions/workflows/snyk-infrastructure-analysis.yml/badge.svg)](https://github.com/neoscotch/OpenRE/actions/workflows/snyk-infrastructure-analysis.yml)
 [![CodeQL](https://github.com/neoscotch/OpenRE/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/neoscotch/OpenRE/actions/workflows/codeql-analysis.yml)
 [![CI](https://github.com/neoscotch/OpenRE/actions/workflows/Codecov.yml/badge.svg)](https://github.com/neoscotch/OpenRE/actions/workflows/Codecov.yml)
+![OpenRE Actions](https://api.meercode.io/badge/neoscotch/OpenRE?type=ci-success-rate&exclude="Labeler","Labeler","NodeJS with Webpack"&lastDay=7)
 
 #### The Open Real Estate Collective utilizes the Accord Project, for Automated Contract Operations.
 
