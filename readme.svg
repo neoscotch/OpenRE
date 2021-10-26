@@ -20,7 +20,6 @@
 				text {
 				  font-family: 'Lato', sans-serif;
 				  letter-spacing: 1px;
-				  padding-top:50x;
 				  font-size:64px;
 				  color: #fff;
 				}
@@ -31,7 +30,7 @@
 				  color:white;
 				}
 				.logo {
-				  width:50px;
+				  width:30px;
 				  padding-right:15px;
 				  display:inline-block;
 				  vertical-align: middle;
