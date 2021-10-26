@@ -112,7 +112,7 @@
 				  content: " ";
 				  display: block;
 				  width: 40px;
-				  height: 4064px;
+				  height: 40px;
 				  margin: 8px;
 				  border-radius: 50%;
 				  border: 6px solid #fff;
