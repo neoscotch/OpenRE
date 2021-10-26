@@ -134,9 +134,9 @@
 
 			<!--Content before waves-->
 			<div class="" title="5" style="padding-top:9px">
-
-				<text></text><div class="lds-dual-ring logo"></div><text>penRE</text>
+				<div class="lds-dual-ring logo"></div>
 			</div>
+				
 			<svg width="149.8" height="20" viewBox="0 0 1498 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="ci success rate: 51%">
 			  <title>ci success rate: 51%</title>
 			  <linearGradient id="a" x2="0" y2="100%">
@@ -181,7 +181,7 @@
 			<!--Content starts-->
 			<div class="content flex">
 				<p>
-					<h1>Welcome to my Github Profile</h1>
+					<h1></h1>
 				</p>
 			</div>
 			<!--Content ends-->
