@@ -1,14 +1,3 @@
-<img src="https://github.com/neoscotch/openre/blob/master/readme.svg" width="100%" alt="testing"/>
-
-
-
-
-
-
-
-
-
-
 # The Open Real Estate Collective
 
 
