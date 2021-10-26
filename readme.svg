@@ -20,8 +20,7 @@
 				text {
 				  font-family: 'Lato', sans-serif;
 				  letter-spacing: 1px;
-				  padding-top:50px;
-				  font-size:48px;
+				  font-size:64px;
 				  color: #fff;
 				}
 				.header {
