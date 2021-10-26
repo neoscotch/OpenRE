@@ -160,9 +160,7 @@
 
 			<!--Content starts-->
 			<div class="content flex">
-				<p>
-					test
-				</p>
+				<text>NE</text><text>SCOTCH</text>
 			</div>
 			<!--Content ends-->
 		</div>	
