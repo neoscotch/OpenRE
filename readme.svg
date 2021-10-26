@@ -48,8 +48,8 @@
 				  width: 100%;
 				  height:30%;
 				  margin-bottom:-7px; /*Fix for safari gap*/
-				  min-height:100px;
-				  max-height:150px;
+				  min-height:30%;
+				  max-height:30%;
 				}
 				.content {
 				  position:relative;
