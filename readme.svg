@@ -7,12 +7,12 @@
 				  margin:0;
 				}
 				h1 {
-				  font-family: 'Lato', sans-serif;
+				  font-family: 'Open-Sans', sans-serif;
 				  font-weight:300;
 				  font-size:48px;
 				}
 				p {
-				  font-family: 'Lato', sans-serif;
+				  font-family: 'Open-Sans', sans-serif;
 				  letter-spacing: 1px;
 				  font-size:14px;
 				  color: #333333;
