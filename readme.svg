@@ -1,6 +1,6 @@
 <svg fill="none" viewBox="0 0 800 600" width="800" height="800" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject>
-		<div xmlns="http://www.w3.org/1999/xhtml" width="10" height="10">
+		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				@import url(//fonts.googleapis.com/css?family=Lato:300:400);
 				body {
