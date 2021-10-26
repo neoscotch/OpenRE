@@ -159,9 +159,7 @@
 			<!--Header ends-->
 
 			<!--Content starts-->
-			<div class="content flex">
-				<text>NE</text><text>SCOTCH</text>
-			</div>
+			<text>NE</text><text>SCOTCH</text>
 			<!--Content ends-->
 		</div>	
 	</foreignObject>
