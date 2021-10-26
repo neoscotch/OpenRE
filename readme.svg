@@ -129,7 +129,7 @@
 			<!--Content before waves-->
 			<div class="loader loader--style6" title="5" style="padding-top:9px">
 
-				<div class="lds-dual-ring logo"></div><font color="white" face="Lato, sans-serif" size="+10">penRE</font>
+				<div class="lds-dual-ring logo"></div><text>penRE</text>
 			</div>
 
 			<!--Waves Container-->
