@@ -159,7 +159,7 @@
 			<!--Header ends-->
 
 			<!--Content starts-->
-			<text>NE</text><text>SCOTCH</text>
+			<font>NE</font><font>SCOTCH</font>
 			<!--Content ends-->
 		</div>	
 	</foreignObject>
