@@ -128,7 +128,7 @@
 			<!--Content before waves-->
 			<div class="loader loader--style6" title="5" style="padding-top:9px">
 
-				<div class="lds-dual-ring logo"></div><h1>penRE</h1>
+				<div class="lds-dual-ring logo"></div><text>penRE</text>
 			</div>
 
 			<!--Waves Container-->
@@ -154,7 +154,7 @@
 			<!--Content starts-->
 			<div class="content flex">
 				<p>
-
+					test
 				</p>
 			</div>
 			<!--Content ends-->
