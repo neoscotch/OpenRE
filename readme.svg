@@ -133,9 +133,7 @@
 			<div class="header">
 
 			<!--Content before waves-->
-			<div class="" title="5" style="padding-top:9px">
-				<div class="lds-dual-ring logo"></div>
-			</div>
+			<div class="lds-dual-ring logo"></div>	
 				
 			<svg width="149.8" height="20" viewBox="0 0 1498 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="ci success rate: 51%">
 			  <title>ci success rate: 51%</title>
