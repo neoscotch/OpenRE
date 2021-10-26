@@ -20,9 +20,9 @@
 				text {
 				  font-family: 'Lato', sans-serif;
 				  letter-spacing: 1px;
-				  margin-top: 50px;
 				  font-size:64px;
 				  color: #fff;
+				  vertical-align: -32px;
 				}
 				.header {
 				  position:relative;
@@ -32,9 +32,9 @@
 				}
 				.logo {
 				  width:30px;
-				  padding-right:15px;
 				  display:inline-block;
 				  vertical-align: middle;
+				  padding-top: 85px;
 				}
 				.inner-header {
 				  height:65vh;
@@ -106,13 +106,13 @@
 				.lds-dual-ring {
 				  display: inline-block;
 				  width: 64px;
-				  height: 64px;
+				  height: 126px;
 				}
 				.lds-dual-ring:after {
 				  content: " ";
 				  display: block;
-				  width: 64px;
-				  height: 64px;
+				  width: 40px;
+				  height: 4064px;
 				  margin: 8px;
 				  border-radius: 50%;
 				  border: 6px solid #fff;
