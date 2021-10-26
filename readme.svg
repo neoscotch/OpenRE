@@ -20,8 +20,9 @@
 				text {
 				  font-family: 'Open-Sans', sans-serif;
 				  letter-spacing: 1px;
+				  padding-top:9px;
 				  font-size:48px;
-				  color: #333333;
+				  color: #fff;
 				}
 				.header {
 				  position:relative;
