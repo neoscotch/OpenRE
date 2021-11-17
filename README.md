@@ -1,32 +1,13 @@
-<img src="https://github.com/neoscotch/openre/blob/master/readme.svg" width="100%" alt="testing"/>
-
-
-
-
-
-
-
-
-
-
 # The Open Real Estate Collective
 
-
-
-<img src="https://github.com/neoscotch/OpenRE/blob/main/Asset1.png" width="20%" /> <br>  <img id="repo-badge" src="https://www.codefactor.io/Content/badges/APlus.svg" alt="Repository badge with APlus rating" data-toggle="modal" data-target="#badgeTexts" analytics-on="click" analytics-category="Repo Header" analytics-event="Badge">
+<img src="https://github.com/neoscotch/OpenRE/blob/main/Asset1.png" width="20%" /> <br>
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE?ref=badge_large)
 [![accord project](https://img.shields.io/badge/powered%20by-accord%20project-19C6C8.svg)](https://www.accordproject.org/)
+<!-- ![OpenRE Actions](https://api.meercode.io/badge/neoscotch/OpenRE?type=ci-success-rate&exclude="Labeler","Labeler","NodeJS%20with%20Webpack"&lastDay=7) -->
 [![CodeFactor](https://www.codefactor.io/repository/github/neoscotch/openre/badge)](https://www.codefactor.io/repository/github/neoscotch/openre)
-![OpenRE Actions](https://api.meercode.io/badge/neoscotch/OpenRE?type=ci-success-rate&exclude="Labeler","Labeler","NodeJS%20with%20Webpack"&lastDay=7)
-
-[![Snyk Infrastructure as Code](https://github.com/neoscotch/OpenRE/actions/workflows/snyk-infrastructure-analysis.yml/badge.svg)](https://github.com/neoscotch/OpenRE/actions/workflows/snyk-infrastructure-analysis.yml)
 [![CodeQL](https://github.com/neoscotch/OpenRE/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/neoscotch/OpenRE/actions/workflows/codeql-analysis.yml)
 [![CI](https://github.com/neoscotch/OpenRE/actions/workflows/Codecov.yml/badge.svg)](https://github.com/neoscotch/OpenRE/actions/workflows/Codecov.yml)
 
-
-#### The Open Real Estate Collective utilizes the Accord Project, for Automated Contract Operations.
-
-Accord Project, an open source, non-profit, initiative working to transform contract management and contract automation by digitizing contracts. Accord Project operates under the umbrella of the [Linux Foundation][linuxfound]. The technical charter for the Accord Project can be found [here][charter].
 
 
 
@@ -50,9 +31,6 @@ Simplest, most cost-effective way to generate listings
 
 #### Automated Contract creation and enforcement
 Our smart SmartRE contract pipeline enables realtors to quickly replicate, enforce, and secure contracts 
-
-
-
 
 
 <a href="https://opencollective.com/webpack/donate" target="_blank">
@@ -206,6 +184,10 @@ Simplest, most cost-effective way to generate listings
 
 
 -->
+#### The Open Real Estate Collective utilizes the Accord Project, for Automated Contract Operations.
+
+Accord Project, an open source, non-profit, initiative working to transform contract management and contract automation by digitizing contracts. Accord Project operates under the umbrella of the [Linux Foundation][linuxfound]. The technical charter for the Accord Project can be found [here][charter].
+
 
 [linuxfound]: https://www.linuxfoundation.org
 [charter]: https://github.com/accordproject/governance/blob/master/accord-project-technical-charter.md
